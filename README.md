@@ -55,5 +55,5 @@ A real-time one-to-one chat application built with Laravel, Pusher, and Laravel 
 
 ## Accessing the Application
 
-* **Users:**Users can log in using their credentials on the `/login` page. Upon successful authentication, they are redirected to the Chat Inbox, where they can engage in real-time conversations with other users and dynamically search through the user list.
+* **Users:** Users can log in using their credentials on the `/login` page. Upon successful authentication, they are redirected to the Chat Inbox, where they can engage in real-time conversations with other users and dynamically search through the user list.
 * **Registration:** New users who do not have an account can `/register` page to create one. Upon successful Registration, they are redirected to the Chat Inbox, where they can engage in real-time conversations with other users and dynamically search through the user list.
